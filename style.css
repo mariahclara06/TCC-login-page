@@ -1,0 +1,61 @@
+body {
+    font-family: 'Montserrat';
+    background: url(file:///C:/Users/Maria%20Clara/Downloads/fundo%204.png);
+    background-position: center, center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+   
+}
+.login-title{
+    color: white;
+    align-items: center;
+}
+
+.centered-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.container-fluid {
+    padding: 300px;
+}
+
+.custom-input{
+    margin-bottom: 10px; 
+    border-radius: 30px;
+    max-width: 300px;
+    width: 100%;
+    align-items: center;
+   
+
+}
+
+.btn-success {
+    background:#8FAEF8;
+    color:  white;
+    border: none; 
+    padding: 10px; 
+    cursor: pointer; 
+    border-radius: 30px;
+    align-items: center;
+  
+}
+
+.btn-success:hover {
+    background-color:#8FAEF8; 
+}
+
+.link-danger {
+    color:  #878FC7; 
+    text-decoration: none;
+}
+
+.link-danger:hover {
+    text-decoration: underline;
+}
