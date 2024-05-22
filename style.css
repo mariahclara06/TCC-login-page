@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat';
-    background: url(file:///C:/Users/andre/Downloads/Design%20sem%20nome.png);
+    background: url(img/Design_sem_nome.png);
     background-position: center, center;
     justify-content: center;
     align-items: center;
@@ -53,6 +53,7 @@ body {
 
 .link-danger {
     color:  #878FC7; 
+    background-color: transparent;
     text-decoration: none;
 }
 
